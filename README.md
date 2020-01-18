@@ -14,7 +14,7 @@ So, I created the [ML checklist](https://docs.google.com/spreadsheets/d/1y4EdxeA
 <img src="assets/ml_proj_checklist.png"
      alt="Machine Learning Checklist"/>
 
-In this notebook, I also created...
+In this repo, I also created...
 1. `ml_project_checklist_template.ipynb`: (Pictured below) a Jupyter .ipynb that you can use as a template for your project or Kaggle competition
 2. `data_cleaning_for_ml_lab_EXERCISES.ipynb`: An exercises/lab that you can finish for data cleaning practice, originally made for a workshop that I gave
 3. `data_cleaning_for_ml_lab_SOLUTIONS.ipynb`: A solutions file for the exercises I give above
