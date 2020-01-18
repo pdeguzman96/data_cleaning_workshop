@@ -11,15 +11,16 @@ When I just got started learning Python for Machine Learning and worked on my fi
 
 So, I created the [ML checklist](https://docs.google.com/spreadsheets/d/1y4EdxeAliOQw9CDHx0_brjmk-LUb3gfX52zLGSqLg_g/edit?usp=sharing) (Pictured Below) to be a handy tool for whenever I start to feel lost creating an ML project.
 
-<img src="assets/ml_proj_checklist"
+<img src="assets/ml_proj_checklist.png"
      alt="Machine Learning Checklist"/>
 
 In this notebook, I also created...
 1. `ml_project_checklist_template.ipynb`: (Pictured below) a Jupyter .ipynb that you can use as a template for your project or Kaggle competition
 2. `data_cleaning_for_ml_lab_EXERCISES.ipynb`: An exercises/lab that you can finish for data cleaning practice, originally made for a workshop that I gave
 3. `data_cleaning_for_ml_lab_SOLUTIONS.ipynb`: A solutions file for the exercises I give above
+4. `boston.csv` and `cambridge.csv`: Airbnb datasets from [here](http://insideairbnb.com/get-the-data.html) used for the exercises
 
-<img src="assets/proj_template"
+<img src="assets/proj_template.png"
      alt="iPynb Template"/>
 
 ---
