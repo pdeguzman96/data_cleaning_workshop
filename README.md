@@ -18,6 +18,7 @@ In this notebook, I also created...
 1. `ml_project_checklist_template.ipynb`: (Pictured below) a Jupyter .ipynb that you can use as a template for your project or Kaggle competition
 2. `data_cleaning_for_ml_lab_EXERCISES.ipynb`: An exercises/lab that you can finish for data cleaning practice, originally made for a workshop that I gave
 3. `data_cleaning_for_ml_lab_SOLUTIONS.ipynb`: A solutions file for the exercises I give above
+4. `boston.csv` and `cambridge.csv`: Airbnb datasets from [here](http://insideairbnb.com/get-the-data.html) used for the exercises
 
 <img src="assets/proj_template"
      alt="iPynb Template"/>
