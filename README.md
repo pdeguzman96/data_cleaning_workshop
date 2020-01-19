@@ -1,6 +1,6 @@
 ## Machine Learning Project Checklist
 
-**Summary:** [This checklist](https://docs.google.com/spreadsheets/d/1y4EdxeAliOQw9CDHx0_brjmk-LUb3gfX52zLGSqLg_g/edit?usp=sharing) was created to help ML students/practitioners structure their projects and problems in a way that makes sense to me.
+**Summary:** [This checklist](http://bit.ly/ml_proj_checklist) was created to help ML students/practitioners structure their projects and problems in a way that makes sense to me.
 
 ---
 
@@ -9,7 +9,7 @@ When I just got started learning Python for Machine Learning and worked on my fi
 - I couldn't easily remember the functions, methods, and estimators from pandas, numpy, and sklearn, and
 - it was tedious and time-consuming to try to understand large (>50 feature) datasets
 
-So, I created the [ML checklist](https://docs.google.com/spreadsheets/d/1y4EdxeAliOQw9CDHx0_brjmk-LUb3gfX52zLGSqLg_g/edit?usp=sharing) (Pictured Below) to be a handy tool for whenever I start to feel lost creating an ML project.
+So, I created the [ML checklist](http://bit.ly/ml_proj_checklist) (Pictured Below) to be a handy tool for whenever I start to feel lost creating an ML project.
 
 <img src="assets/ml_proj_checklist.png"
      alt="Machine Learning Checklist"/>
